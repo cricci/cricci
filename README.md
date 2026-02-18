@@ -4,7 +4,7 @@ I'm CTO at [RVLVR](https://www.gorvlvr.com "Visit RVLVR") and [Indigenous Softwa
 
 I've been (S)VP, Executive Director, and CTO a few times over; at Holland & Barrett, Dell, Sears Holdings, and Rangespan (now Google). As well (and among other things), I headed the Enterprise Multichannel team at Amazon.com, launched Amazon's Webstore in the UK with partner BT, and was an early leader in the Amazon Kindle team. I was a software developer and consultant for a good long time (with grey hairs to prove it).
 
-I use DMARC reporting for a variety of applications in my work and have a couple related side projects. [Viewleaf](https://www.viewleaf.com) is a DMARC report analysis and monitoring tool that is free, with 60 days of history. A paid tier, with unlimited history will be detailed in March, 2026. I'd love for you to use it; feedback is appreciated. As well, I monitor and explore evidence of spoofing and spam in email associated with domains I'm responsible for. This is at [sh4meful](https://sh4meful.com).
+I use DMARC reporting for a variety of applications in my work and have a couple related side projects. [Viewleaf](https://www.viewleaf.com) is a DMARC report analysis and monitoring tool that is free, with 60 days of history. A paid tier, with unlimited history will be detailed in March, 2026. I'd love for you to try it; feedback is appreciated. As well, I monitor and explore evidence of spoofing and spam in email associated with domains I'm responsible for. This is at [sh4meful](https://sh4meful.com).
 
 I'm a caffeine enthusiast, based in Chicago.
 
