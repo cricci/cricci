@@ -1,14 +1,22 @@
-## Hey 👋
+# Hey 👋
 
-I'm CTO at [RVLVR](https://www.gorvlvr.com "Visit RVLVR") and [Indigenous Software](https://indigenous.io "Visit Indigenous"), and an Advisor to [Affinitiv](https://www.affinitiv.com/ "Visit Affinitiv"). 
+I'm a commerce and retail platform builder; currently CTO at [RVLVR](https://www.gorvlvr.com/) and [Indigenous Software](https://indigenous.io/), and Advisor (Head of Strategy & Analytics, AI / ML) at [Affinitiv](https://www.affinitiv.com/).
 
-I've been (S)VP, Executive Director, and CTO a few times over; at Holland & Barrett, Dell, Sears Holdings, and Rangespan (now Google). As well (and among other things), I headed the Enterprise Multichannel team at Amazon.com, launched Amazon's Webstore in the UK with partner BT, and was an early leader in the Amazon Kindle team. I was a software developer and consultant for a good long time (with grey hairs to prove it).
+Past lives include (S)VP and Executive Director seats at Holland & Barrett, Dell, Sears Holdings, and Rangespan (acquired by Google). Earlier still, I was Development Manager on the Amazon Kindle team and led Amazon's Enterprise Multichannel work in Europe — including Webstore launches with partners like M&S, Mothercare, and BT. Software developer and consultant before all that, with the grey hairs to prove it.
 
-I use DMARC reporting for a variety of applications in my work and have a couple related side projects. [Viewleaf](https://www.viewleaf.com) is a DMARC report analysis and monitoring tool that is free for a limited time, with no history or domain limits. A paid tier will be added later (and, for future sign-ups). I'd love for you to try it; feedback is appreciated. As well, I monitor and explore evidence of spoofing and spam with (email) domains I'm responsible for, at [sh4meful](https://sh4meful.com).
+## Currently shipping
 
-I'm a caffeine enthusiast, based in Chicago.
+DMARC reporting touches a lot of what I do, and it's the spine of two side projects:
 
-**Random Bits**
-- Indigenous was an [AWS Activate](https://aws.amazon.com/activate/activate-landing/) member (2015, 2016) and is currently exploring Machine Learning and generative AI opportunities as a member of the [Google for Startups Cloud Program](https://cloud.google.com/startup) (2023+).
-- RVLVR has been recognized by Forrester in their report; Channel Software Tech Stack (2019, 2020, [2021](https://www.forrester.com/blogs/channel-software-tech-stack-2021/)), and by Canalys in their Channels Ecosystem Landscape (2022, 2023, [2025](https://www.canalys.com/insights/channels-ecosystem-landscape-2025)).
-- Check out [RVLVR's Blog](https://www.gorvlvr.com/blog "RVLVR's Blog Here") and [RVLVR's Case Studies](https://www.gorvlvr.com/library). Occassionally, they let me [write](https://www.gorvlvr.com/blog/limits-of-ai-personalization) [stuff](https://www.gorvlvr.com/blog/email-analytics) because I'm a cranky bot- and spam-fighter.
+- **[Viewleaf](https://viewleaf.com)** — DMARC monitoring SaaS, free during the early-access launch with no history or domain limits. MCP integration on the roadmap. A paid tier comes later, for future sign-ups. Feedback welcome.
+- **[Sh4meful](https://sh4meful.com)** — open dashboard tracking spoofing and spam patterns across email domains I administer. Same engine as Viewleaf, made public, with MCP integration shipping.
+
+A couple of small open-source utilities live here too: [`public_email_domains`](https://github.com/cricci/public_email_domains) (free / low-cost domains, useful for scrubbing B2B campaigns) and [`sms_mms_email_domains`](https://github.com/cricci/sms_mms_email_domains) (email-to-SMS / MMS gateway domains).
+
+## Random bits
+
+Indigenous was an AWS Activate member (2015, 2016) and is now a member of the Google for Startups Cloud Program (2023+), exploring ML and generative AI applications. Indigenous's TCMA platform has been featured in Jay McBain's Through-Channel Marketing Automation Tech Stack at Forrester (2019, 2020, 2021), and RVLVR has been featured in his Channel Partnership Technology Stack at Canalys (2022, 2023, 2024, 2025).
+
+Worth a look: [RVLVR's blog](https://www.gorvlvr.com/blog) and [case studies](https://www.gorvlvr.com/case-studies). Occasionally they let me write something — I'm a cranky bot- and spam-fighter.
+
+Caffeine enthusiast, based in Chicago. Reach me at [chris@disrpt.co](mailto:chris@disrpt.co).
