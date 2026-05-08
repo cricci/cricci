@@ -15,7 +15,7 @@ A couple of small open-source utilities live here too: [public_email_domains](ht
 
 ## Random bits
 
-Indigenous was an AWS Activate member (2015, 2016) and is now a member of the Google for Startups Cloud Program (2023+), exploring ML and generative AI applications. Indigenous's TCMA platform has been featured in Jay McBain's Through-Channel Marketing Automation Tech Stack at Forrester (2019, 2020, 2021), and RVLVR has been featured in his Channel Partnership Technology Stack at Canalys (2022, 2023, 2024, 2025).
+Indigenous was an AWS Activate member (2015, 2016) and member of the Google for Startups Cloud Program (2023+), exploring ML and generative AI applications. The Indigenous/RVLVR Through Channel Marketing Automation (TCMA) platform was featured in Jay McBain's Through-Channel Marketing Automation Tech Stack at Forrester (2019, 2020, 2021), and RVLVR has been included in his Channel Partnership Technology Stack at Canalys (2022, 2023, 2024, 2025).
 
 Worth a look: [RVLVR's blog](https://www.gorvlvr.com/blog) and [case studies](https://www.gorvlvr.com/brilliance). Occasionally they let me write something — I'm a cranky bot- and spam-fighter.
 
