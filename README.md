@@ -19,6 +19,6 @@ Indigenous was an AWS Activate member (2015, 2016) and member of the Google for 
 
 The Indigenous/RVLVR Through Channel Marketing Automation (TCMA) platform was featured in Jay McBain's Through-Channel Marketing Automation Tech Stack at Forrester (2019, 2020, 2021), and RVLVR has been included in his Channel Partnership Technology Stack at Canalys (2022, 2023, 2024, 2025).
 
-Worth a look: [RVLVR's blog](https://www.gorvlvr.com/blog) and [case studies](https://www.gorvlvr.com/brilliance). Occasionally they let me write something — I'm a cranky bot- and spam-fighter.
+Worth a look: [RVLVR's blog](https://www.gorvlvr.com/blog) and [case studies](https://www.gorvlvr.com/brilliance). Occasionally they let me write something; I'm a cranky bot- and spam-fighter.
 
 Caffeine enthusiast, based in Chicago. Reach me at [chris@disrpt.co](mailto:chris@disrpt.co).
