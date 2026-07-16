@@ -9,7 +9,7 @@ Past lives include (S)VP, CTO, and Executive Director seats at Holland & Barrett
 DMARC reporting touches a lot of what I do, and it's the spine of two side projects:
 
 - **[DmarcSignal](https://www.dmarcsignal.com)** (formerly Viewleaf), free DMARC monitoring. In use at Fortune 100 and 500 companies and by independent operators, with no history or domain limits. MCP integration on the roadmap. Feedback welcome.
-- **[Sh4meful](https://sh4meful.com)** — Open dashboard tracking spoofing and spam patterns across email domains I administer. Same engine as DmarcSignal/Viewleaf, made public, with MCP integration for research or use in other intelligence tools.
+- **[Sh4meful](https://sh4meful.com)** Open dashboard tracking spoofing and spam patterns across email domains I administer. Same engine as DmarcSignal/Viewleaf, made public, with MCP integration for research or use in other intelligence tools.
 
 A couple of small open-source repo's live here too: [public_email_domains](https://github.com/cricci/public_email_domains) (free / low-cost domains, useful for scrubbing B2B campaigns) and [sms_mms_email_domains](https://github.com/cricci/sms_mms_email_domains) (email-to-SMS / MMS gateway domains).
 
