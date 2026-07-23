@@ -1,6 +1,6 @@
 # Hey 👋
 
-I'm a commerce and retail platform builder; currently CTO at [RVLVR](https://www.gorvlvr.com/) and [Indigenous Software](https://indigenous.io/), and Advisor (Head of Strategy & Analytics, AI / ML) at [Affinitiv](https://www.affinitiv.com/).
+I'm a commerce and retail platform builder; currently CTO at [RVLVR](https://www.gorvlvr.com/) and [Indigenous Software](https://indigenous.io/), and Advisor (Head of Strategy & Analytics, AI and ML) at [Affinitiv](https://www.affinitiv.com/).
 
 Past lives include (S)VP, CTO, and Executive Director seats at Holland & Barrett, Dell, Sears Holdings, and Rangespan (acquired by Google). Earlier still, I was Development Manager on the Amazon Kindle team and led Amazon's Enterprise Multichannel work in Europe; including Webstore launches with partners like M&S, Mothercare, and BT. Software developer and consultant before all that, with the grey hairs to prove it.
 
