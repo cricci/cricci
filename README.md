@@ -11,7 +11,7 @@ DMARC reporting touches a lot of what I do, and it's the spine of two side proje
 - **[DmarcSignal](https://www.dmarcsignal.com)**: (formerly Viewleaf), free DMARC monitoring. In use at Fortune 100 and 500 companies and by independent operators, with no history or domain limits. MCP integration on the roadmap. Feedback welcome.
 - **[Sh4meful](https://sh4meful.com)**: Open dashboard tracking spoofing and spam patterns across email domains I administer. Some of the same technologies as DmarcSignal (above). Extrapolated from my own client reporting but anonymized for public use, with MCP integration for research or use in other intelligence tools.
 
-A couple of small open-source repo's live here too: **[public_email_domains](https://github.com/cricci/public_email_domains)** (free / low-cost domains, useful for scrubbing B2B campaigns) and **[sms_mms_email_domains](https://github.com/cricci/sms_mms_email_domains)** (email-to-SMS / MMS gateway domains). And then there's **[SignalLeadGen](https://www.signalleadgen.com)** an AI-driven (inbound) lead gen platform that learns. Actively deployed and continuously evolving..
+A couple of small open-source repo's live here too: **[public_email_domains](https://github.com/cricci/public_email_domains)** is a list of free/low-cost domains, useful for scrubbing B2B campaigns. And, **[sms_mms_email_domains](https://github.com/cricci/sms_mms_email_domains)** is a list of email-to-SMS/MMS gateway domains. Those are helpful for scrubbing leads and lists (always get permission). Then there's **[SignalLeadGen](https://www.signalleadgen.com)**, a work in-progress and, an AI-driven (inbound) lead gen platform that learns. Actively deployed and continuously evolving..
 
 ## Random bits
 
