@@ -22,3 +22,10 @@ The Indigenous/RVLVR Through Channel Marketing Automation (TCMA) platform was fe
 Worth a look: [RVLVR's blog](https://www.gorvlvr.com/blog) and [case studies](https://www.gorvlvr.com/brilliance). Occasionally they let me write something; I'm a cranky bot- and spam-fighter.
 
 Caffeine enthusiast, based in Chicago. Reach me at [chris@disrpt.co](mailto:chris@disrpt.co).
+
+## Featured Domains for Sale
+
+- [sellerstanding.com](https://sellerstanding.com)
+- [unstole.com](https://unstole.com)
+
+There are others [here](https://github.com/cricci/domains_for_sale).
